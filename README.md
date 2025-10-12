@@ -1,7 +1,7 @@
-PROJECT READ ME: LOST & FOUND IMAGE MATCHING (DEMO USING SWAGGER UI)
+
 
 --------------------------------------------------------
-QUICK START: OPENING YOUR DEMO PROJECT
+CAMPUS-WIDE LOST AND FOUND PLATFORM : QUICK START
 --------------------------------------------------------
 
 1. Open the deployment link in your browser:
@@ -84,8 +84,3 @@ NOTES
 - This API does NOT yet support direct frontend integration—please use only Swagger UI or similar API tools for demonstration.
 - Only image uploads, location, and date are required for current endpoints.
 - Admin and user endpoints support full automated testing.
-
---------------------------------------------------------
-PROJECT TEAM CONTACT
---------------------------------------------------------
-For technical help, contact your backend lead or refer to comments in `main.py`, `faiss_db.py`, and `embeddings_resnet.py`.
