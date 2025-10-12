@@ -5,12 +5,11 @@ QUICK START: OPENING YOUR DEMO PROJECT
 --------------------------------------------------------
 
 1. Open the deployment link in your browser:
-   - Example: https://musical-garbanzo-<id>.github.dev
-   - Replace <id> with your actual codespace or deployment identifier.
+   - [https://expert-telegram-4jggv9qx6g6wh7v5-8000.app.github.dev/]
 
 2. Once the homepage loads, go to the built-in API documentation:
    - Append `/docs` at the end of your link.
-   - Example: https://musical-garbanzo-<id>.github.dev/docs
+   - Example: https://expert-telegram-4jggv9qx6g6wh7v5-8000.app.github.dev/docs
 
    This will open the FastAPI Swagger UI where you can interactively test all project endpoints.
 
