@@ -5,11 +5,11 @@ CAMPUS-WIDE LOST AND FOUND PLATFORM : QUICK START
 --------------------------------------------------------
 
 1. Open the deployment link in your browser:
-   - [https://musical-garbanzo-r475jprg6pj6fwr4-8000.app.github.dev/]
+   - [https://falconine-neglectedly-dianne.ngrok-free.dev/]
 
 2. Once the homepage loads, go to the built-in API documentation:
    - Append `/docs` at the end of your link.
-   - Example: https://musical-garbanzo-r475jprg6pj6fwr4-8000.app.github.dev/docs
+   - https://falconine-neglectedly-dianne.ngrok-free.dev/docs
 
    This will open the FastAPI Swagger UI where you can interactively test all project endpoints.
 
