@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Custom Animations --- */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+
+@keyframes float-delayed {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(20px); }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(-20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-float { animation: float 6s ease-in-out infinite; }
+.animate-float-delayed { animation: float-delayed 8s ease-in-out infinite; }
+.animate-fade-in { animation: fade-in 1s ease-out; }
+
+/* --- Utility Colors & Effects --- */
+.text-brand-purple { color: #26175f; }
+.group:hover .text-brand-purple { color: #ffffff !important; }
+
+/* --- Final Background Pattern (your uploaded design) --- */
+.bg-lost-and-found-pattern {
+  background-image: url('/src/assets/lost-n-fnd-bg.jpg'); /* ✅ correct forward slashes */
+  background-size: cover;           /* fills full screen */
+  background-repeat: no-repeat;     /* avoids tiling */
+  background-attachment: fixed;     /* keeps it static */
+  background-position: center;      /* centers the image */
+  background-color: #e9eff7;        /* pale blue fallback */
+}
