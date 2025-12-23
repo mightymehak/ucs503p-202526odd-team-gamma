@@ -5,13 +5,7 @@ CAMPUS-WIDE LOST AND FOUND PLATFORM : QUICK START
 --------------------------------------------------------
 
 1. Open the deployment link in your browser:
-   - [https://falconine-neglectedly-dianne.ngrok-free.dev/]
-
-2. Once the homepage loads, go to the built-in API documentation:
-   - Append `/docs` at the end of your link.
-   - https://falconine-neglectedly-dianne.ngrok-free.dev/docs
-
-   This will open the FastAPI Swagger UI where you can interactively test all project endpoints.
+   - [https://ucs503p-202526odd-team-gamma2.onrender.com]
 
 --------------------------------------------------------
 TESTING THE ENDPOINTS USING SWAGGER UI
